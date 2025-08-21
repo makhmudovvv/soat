@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: black;
+    color: white;
+    flex-direction: column;
+    }
+    #clock {
+    font-size: 60px;
+    padding: 20px;
+    background: grey;
+    border-radius: 10px;
+    }
